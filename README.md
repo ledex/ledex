@@ -13,4 +13,4 @@ I'm a software engineer based in Germany with a focus on cloud-native developmen
 - **Infrastructure and Orchestration**: SCRUM, SAFE, Requirement Engineering
 
 ### Contact 📧
-Feel free to contact me [via mail](mailto:karstenbruhns+gh@gmail.com) or [via LinkedIn](https://www.linkedin.com/in/knbs/).
+Feel free to contact me via [mail](mailto:karstenbruhns+gh@gmail.com) or via [LinkedIn](https://www.linkedin.com/in/knbs/).
